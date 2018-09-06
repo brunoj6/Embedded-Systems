@@ -2,8 +2,13 @@
 
 NVIC_CPUID_BASE : 0xe000ed00
 
+
 Partno: Bits 4-15 
 Revision: Bits 0-3
 Variant: Bits 20-23
 Constant: Bits 16-19
 Implementer: Bits 24-31
+
+
+PRT6_DR : 0x40005160
+
